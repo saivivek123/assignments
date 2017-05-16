@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -103,3 +104,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+=======
+this is the new edit i want to make after the commit
+
+>>>>>>> db5e20e5ba077f9eb316b14994b18833937485a1
